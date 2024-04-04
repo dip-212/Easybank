@@ -144,7 +144,7 @@
     box-sizing: border-box;
     padding-top: 70px;
     z-index: 3;
-    height: 500px;
+    height: 600px;
     overflow: hidden;
     background-color: hsl(220, 16%, 96%);
     padding-left: 5px;
@@ -185,7 +185,7 @@
   }
   .thirdcontainer {
     padding-top: 70px;
-    height: 800px;
+    height: 1000px;
     background-color: hsl(0, 0%, 98%);
   }
   .container3 span {
